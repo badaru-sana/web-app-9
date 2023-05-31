@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://4156-41-215-171-73.eu.ngrok.io/repository/from-jenkins-release/</url>
+	      <url>http://172.31.92.142:8081/repository/1st-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://4156-41-215-171-73.eu.ngrok.io/repository/from-jenkins/</url>
+	      <url>http://172.31.92.142:8081/repository/1st-release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
