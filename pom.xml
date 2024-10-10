@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://18.234.221.73:8081/repository/uba-app-release/</url>
+	      <url>http://44.201.231.158:8081/repository/jomacs-webapp2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
