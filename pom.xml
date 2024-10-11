@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://54.221.93.202:9000/</sonar.host.url>
+		<sonar.host.url>http://52.87.178.191:8081/repository/jomacs-webapp2/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>sonar</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://44.201.231.158:8081/repository/jomacs-webapp2/</url>
+	      <url>http://52.87.178.191:8081/repository/jomacs-webapp2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://18.234.221.73:8081/repository/uba-app-snapshot1/</url>
+	      <url>http://52.87.178.191:8081/repository/jomacs-webapp2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
