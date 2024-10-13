@@ -18,7 +18,7 @@
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<spring.version>5.1.2-RELEASE</spring.version>
+		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://3.89.19.134:9000/</sonar.host.url>
@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http://52.87.178.191:8081/repository/jomacs-webapp2/</url>
+	      <url>http://52.91.27.10:8081/repository/jomacs-webapp/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
